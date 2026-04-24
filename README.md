@@ -19,10 +19,3 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Lucky25sn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](http://127.0.0.1:5500/home.html)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Residency](https://img.shields.io/badge/Residency-June%202026-yellow)
-![Commits](https://img.shields.io/badge/Commits-199%2B-orange)
-
-<img src="your-image-link" width="150" style="border-radius:50%">
